@@ -1,7 +1,9 @@
 AIM
+
 ✦ To load and analyze the given dataset using Python’s Pandas library. ✦ To study the structure, statistical properties, and quality of data using various built-in functions. ✦ To identify missing values, duplicates, and gain meaningful insights from the dataset.
 
 THEORY
+
 Data analysis is a systematic process of examining, cleaning, transforming, and interpreting data to discover useful information and support decision-making.
 In Python, the powerful Pandas library is widely used for handling structured data efficiently. The dataset is stored in a CSV (Comma Separated Values) format, which organizes data in a tabular form and can be easily loaded into a DataFrame — a two-dimensional structure consisting of rows and columns, similar to an Excel sheet.
 To understand and explore the dataset, several essential functions are used:
